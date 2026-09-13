@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+/src/*
+!/src/src/
+
+# OS/editor cruft (optional but common)
+.DS_Store
+*.log
